@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on TikaWeb.ir<br>learning Selery + Docker
+Fullstack web developer<br>Owner of TikaWeb.ir
 
 
 ## 🌐 Socials:
